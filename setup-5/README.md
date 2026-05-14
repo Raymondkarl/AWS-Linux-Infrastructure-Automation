@@ -1,7 +1,7 @@
 # Step 5
 1. ssh to your EC2 Instance then update the linux server
 ```bash
-sudo apt update & sudo apt upgrade -y
+sudo apt update && sudo apt upgrade -y
 ```
 2. Install Docker
 
