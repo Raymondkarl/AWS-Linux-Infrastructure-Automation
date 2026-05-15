@@ -33,9 +33,11 @@ sudo systemctl restart ssh
 
 
 
+
+
+
 # ==================================================
 # PHASE 15 — USER-BASED SSH AUTHENTICATION SETUP
-# ==================================================
 
 ## Scenario
 
@@ -114,10 +116,10 @@ sudo usermod -aG sudo raymond
 
 # STEP 3 — Configure SSH Access
 
-Create `.ssh` directory:
+Create `.ssh` directory:    
 
 ```bash
-sudo mkdir -p /home/raymond/.ssh
+sudo mkdir -p /home/raymond/.ssh   # use ls -la to see the .ssh because it a hidden file (anything with .)
 ```
 
 Create `authorized_keys` file:
