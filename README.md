@@ -4,6 +4,6 @@
 
 ## Project Preview
 
-![Project Preview](image.png)
+![Project Preview](preview.png)
 
 
