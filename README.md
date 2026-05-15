@@ -1,6 +1,6 @@
 ## Infrastructure Architecture Diagram
 
-![Infrastructure Architecture Diagram](Diagram.png)
+![Infrastructure Architecture Diagram](diagram.png)
 
 ## Project Preview
 
