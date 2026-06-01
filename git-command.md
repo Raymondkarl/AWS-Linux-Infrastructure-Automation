@@ -24,4 +24,4 @@ git push -u origin main
 
 Then during Push
 Username: Raymondkarl
-Password: <Personal Access Token>
+Password: Personal Access Token
